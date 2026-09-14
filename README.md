@@ -6,16 +6,18 @@
   src="https://capsule-render.vercel.app/api?type=pulse&height=250&section=header&text=Hi%2C%20I%27m%20Saniya%20%F0%9F%91%8B&fontSize=48&fontColor=FF1493&fontAlignY=45&animation=twinkling&color=0:9B59B6,40:C77DDB,75:F7C8E0,100:F9E79F"
 />
 
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=2500&pause=1200&color=9B59B6&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%8C%B8+A+Little+About+Me" alt="A Little About Me" />
+</a>
+</div>
 
+<img width="2089" height="753" alt="ChatGPT Image Sep 14, 2026, 10_40_00 AM (1)" src="https://github.com/user-attachments/assets/0499af36-28f8-4c8d-b877-71ff1869a7d8" /> 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&duration=2800&pause=900&color=9B59B6&center=true&vCenter=true&width=700&height=50&lines=Computer+Science+%E2%80%A2+AI+%E2%80%A2+Data;Exploring+AI+for+Software+Engineering;NLP+%E2%80%A2+LLMs+%E2%80%A2+AI4SE;Learning+%E2%80%A2+Building+%E2%80%A2+Researching" />
 </a>
 
 </div>
-
-
-<img width="2089" height="753" alt="ChatGPT Image Sep 14, 2026, 10_40_00 AM (1)" src="https://github.com/user-attachments/assets/0499af36-28f8-4c8d-b877-71ff1869a7d8" /> 
-<h2 align="center">🌸 A Little About Me</h2>
 
 <p align="center">
   I am a Computer Science graduate with an interest in
@@ -63,18 +65,3 @@
 </p>
 
 <br>
-
-<!--
-**saniya-dawood/saniya-dawood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
