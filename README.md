@@ -53,7 +53,7 @@
 <h2 align="center">💌 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/saniya-dawood">
+  <a href="https://www.linkedin.com/in/saniya-dawood/">
     <img src="https://img.shields.io/badge/LinkedIn-E8D5F2?style=for-the-badge&logo=linkedin&logoColor=6C3483" />
   </a>
   &nbsp;
